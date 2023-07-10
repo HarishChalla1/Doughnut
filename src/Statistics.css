@@ -1,0 +1,266 @@
+.head{
+  margin-left: 50px;
+  margin-top: 35px;
+  /* background-color: red; */
+}
+
+.dr{
+margin-left: -270px;
+border: none;
+width:25%px;
+
+margin-top: 53%;
+
+background-color: white;
+}
+
+.dr option[value="option1"] {
+  background-color: navy;
+  color: white;
+  text-align: center;
+}
+
+.dr option[value="option2"] {
+  background-color: navy; 
+  color: white;
+  text-align: center;
+  
+}
+
+.dr option[value="option3"] {
+  background-color: navy; 
+  color: white;
+  text-align: center;
+}
+
+.dr option[value="option4"] {
+  background-color: navy;
+  color: white;
+  text-align: center;
+}
+
+.dr option[value="option5"] {
+  background-color: navy;
+  color: white;
+  text-align: center;
+}
+
+
+
+.par1{
+  
+  /* background-color: red; */
+  margin-left: -80%;
+  margin-top: 25px;
+  font-size: 17.5px;
+  color: grey;
+
+}
+
+.flex-column{
+  margin-left: -30px;
+}
+
+/* .ct{
+  margin-left: -80%;
+  margin-top: -20%;
+  width: 20px;
+}
+
+
+#cd{
+  margin-left: -30%;
+  margin-top: -60px;
+} */
+
+
+
+
+.spa{
+  margin-left: -89px;
+  font-size: 17.5px;
+}
+
+
+
+
+.circle {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: 5px solid  navy ; /* Set border color as desired */
+}
+
+
+.ti{
+  margin-left: 50px;
+  
+}
+.text{
+  margin-left: 10px;
+  margin-top: -5px;
+  font-size: 20.5px;
+  color:	#FF69B4 ;
+  
+}
+
+.timg{
+  margin-left:10px ;
+  width: 90px;
+  text-align: center;
+ /* border: none;  */
+ 
+}
+
+.submi{
+  margin-left: 25%;
+ margin-top: -37px;
+}
+
+.subm{
+  margin-left:15px ;
+  width: 90px;
+  text-align: center;
+  /* border: none; */
+  color: green;
+
+}
+
+.ts{
+  margin-left: 50px;
+}
+
+.tst{
+  margin-left:29px ;
+  width: 90px;
+  text-align: center;
+ /* border: none;  */
+}
+
+
+.rm{
+  margin-left: 25%;
+  margin-top: -37px;
+}
+
+.rem{
+  margin-left:10px ;
+  width: 90px;
+  text-align: center;
+  /* border: none; */
+  color: red;
+}
+
+
+.cont{
+  margin-left: 12%;
+}
+
+.contri{
+  margin-left:25px ;
+  margin-top: -10px;
+  width: 13%;
+  border-radius: 40px;
+  height:40px;
+  text-align: center;
+  background-color:darkblue;
+  color:white;
+}
+
+.text1{
+  margin-left: 15px;
+  margin-top: -5px;
+  font-size: 20.5px;
+  color:	#FF69B4;
+}
+
+.btn{
+  margin-left:25% ;
+  height:38px;
+  width: 15%;
+  background-color:darkblue;
+  color: white;
+  border-radius: 50px;
+  
+}
+
+.arbtn{
+  margin-top: 6px;
+  margin-left: 10px;
+}
+
+/* .don{
+  height:200px;
+  width: 200px;
+} */
+
+.ele{
+  margin-left: 55%;
+  /* width: 43%; */
+  margin-top: 40px;
+  border: 1px solid red;
+}
+
+/* .pol{
+  margin-left: -10px;
+} */
+
+.poly{
+  margin-left: 60%;
+ 
+}
+
+.lin{
+  margin-left: 60%;
+}
+
+.rec{
+  margin-left: 70%;
+  margin-top: -68px;
+}
+
+.cir{
+  margin-left: 80%;
+  margin-top: -25px;
+}
+
+.bru{
+  margin-left: 70%;
+  margin-top: 22px;
+}
+
+.dot{
+  margin-left: 80%;
+  margin-top: -23px;
+}
+
+
+
+#poly{
+  background-color: '	rgb(195, 177, 225)';
+  border-color: '	rgb(195, 177, 225)';
+}
+
+#rec{
+  background-color: #e3e1ec;
+  border-color: #e3e1ec;
+}
+
+#cir{
+  background-color:#c1d8ec;
+  border-color: #c1d8ec ;
+}
+
+#lin{
+  background-color: #f0ccbe;
+  border-color: #f0ccbe;
+}
+
+#bru{
+  background-color: #e2edcb;
+  border-color: #e2edcb;
+}
+#do{
+  background-color: #d2daef;
+  border-color: #d2daef;
+}
